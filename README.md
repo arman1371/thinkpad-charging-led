@@ -9,7 +9,3 @@ This code is tested with arch, but shouldn't have any problem on other distros t
 
 ### Uninstall
 1. Run uninstall.sh with root permissions
-2. Restart the system
-
-## TODO
-* After uninstall, reload the LED state to default without restart the system
